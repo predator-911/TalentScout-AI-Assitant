@@ -1,0 +1,7 @@
+streamlit==1.29.0
+textblob==0.17.1
+deep-translator==1.11.4
+langdetect==1.0.9
+plotly==5.18.0
+transformers==4.34.0
+torch==2.1.0
